@@ -19,7 +19,7 @@ Client- Apple
 •	Incident Management & Java Exception Handling: Improve Java logging and alerting for faster issue resolution
 •	ServiceNow Integration with Java: Automate ticket creation and resolution workflows using Java ServiceNow APIs
 •	Client- Apple
-•	Environment: Automation tools: Ansible, Terraform, Cloud Technology: AWS, IS Cloud, Orchestration: Kubernetes, Scripting: Shell, Python, Groovy, Monitoring: Splunk, Ticketing: ServiceNow, Build Tool: Jenkins, Deployment Tool: uDeploy, Spinnaker
+•	**Environment:** Automation tools: Ansible, Terraform, Cloud Technology: AWS, IS Cloud, Orchestration: Kubernetes, Scripting: Shell, Python, Groovy, Monitoring: Splunk, Ticketing: ServiceNow, Build Tool: Jenkins, Deployment Tool: uDeploy, Spinnaker
 
 Sep 2022 - Dec 2023
 	Full Stack Developer / xxx 
@@ -37,7 +37,7 @@ Sep 2022 - Dec 2023
 •	Deployed web applications on servers like Tomcat and WebLogic, ensuring high availability and robust performance
 •	Collaborated with cross-functional teams, including front-end developers, designers, and QA engineers, to deliver high-quality software solutions, noted for exceeding project delivery standards
 •	Continuously updated technical skills by engaging in professional development through courses and certifications in new technologies and Agile methodologies
-•	Environment: Java, J2EE, Spring Framework, Hibernate ORM, Angular/React, HTML5, CSS3, JavaScript, jQuery, JSON, Java Servlets, MVC, JPA, SQL, MySQL/PostgreSQL, JUnit, Agile, Git, Eclipse/IntelliJ IDEA, Tomcat/WebLogic
+•	**Environment:** Java, J2EE, Spring Framework, Hibernate ORM, Angular/React, HTML5, CSS3, JavaScript, jQuery, JSON, Java Servlets, MVC, JPA, SQL, MySQL/PostgreSQL, JUnit, Agile, Git, Eclipse/IntelliJ IDEA, Tomcat/WebLogic
 
 Dec 2020 - Jul 2022
 Cleveland, OH	Frontend Developer / xxx 
@@ -53,7 +53,7 @@ Cleveland, OH	Frontend Developer / xxx
 •	Conducted comprehensive end-to-end testing with Jest and Cypress, ensuring a 30% reduction in post-deployment bugs through thorough debugging and quality assurance
 •	Excelled in an Agile development environment, promoting iterative development, leading weekly Sprints, and facilitating effective stand-up meetings, which enhanced team productivity by 20%
 •	Built a contemporary frontend architecture using React, Redux, and ES6, which improved UI aesthetics and functionality, significantly increasing client approval ratings
-•	Environment: HTML5, CSS3, Bootstrap, ReactJS, AJAX, JavaScript, Sublime Text, Notepad++, Visual Studio Code, Responsive Design, DRY principles, UI/UX design validation, Markup languages, WordPress, Drupal, CMS management, QA testing tools, SEO, NextJS, SSR, SSG, Critical thinking tools, React dev tools, Redux dev tools, Chrome dev tools, VS Code, Invasion, Jira, REST web services, JSON, Jest, Cypress
+•	**Environment:** HTML5, CSS3, Bootstrap, ReactJS, AJAX, JavaScript, Sublime Text, Notepad++, Visual Studio Code, Responsive Design, DRY principles, UI/UX design validation, Markup languages, WordPress, Drupal, CMS management, QA testing tools, SEO, NextJS, SSR, SSG, Critical thinking tools, React dev tools, Redux dev tools, Chrome dev tools, VS Code, Invasion, Jira, REST web services, JSON, Jest, Cypress
 
 Dec 2019 - Oct 2020
 Senior Process Executive / Infosys PVT LTD. 
