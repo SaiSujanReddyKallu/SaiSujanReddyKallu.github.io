@@ -1,8 +1,8 @@
 # Java Full Stack Developer
 
 Jan 2024 - Current
-	Full Stack Developer / Infosys 
-•	Company Overview: Client- Apple
+Full Stack Developer / Infosys 
+Client- Apple
 •	Integrating Java Applications with Jenkins Pipelines: Use Jenkinsfile to define Java build, test, and deployment pipelines
 •	Automating Java Deployments in Spinnaker: Migrate Java-based applications to Spinnaker for controlled releases
 •	UDeploy for Java Applications: Deploy Java-based microservices using IBM UrbanCode Deploy (uDeploy)
@@ -56,7 +56,7 @@ Cleveland, OH	Frontend Developer / xxx
 •	Environment: HTML5, CSS3, Bootstrap, ReactJS, AJAX, JavaScript, Sublime Text, Notepad++, Visual Studio Code, Responsive Design, DRY principles, UI/UX design validation, Markup languages, WordPress, Drupal, CMS management, QA testing tools, SEO, NextJS, SSR, SSG, Critical thinking tools, React dev tools, Redux dev tools, Chrome dev tools, VS Code, Invasion, Jira, REST web services, JSON, Jest, Cypress
 
 Dec 2019 - Oct 2020
-	Senior Process Executive / Infosys PVT LTD. 
+Senior Process Executive / Infosys PVT LTD. 
 Client: Apple
 •	Worked on Apple process as a Senior Process Executive to develop the navigation
 •	Worked on different satellite imageries to collect the data and to improve the data in real world by making changes in GIS tools
@@ -64,7 +64,7 @@ Client: Apple
 •	Worked in Quality team to check the data and analyses for the work done by the analyst
 
 Jan 2019 - Nov 2019
-	Associate Analyst / Global Logic 
+Associate Analyst / Global Logic 
 Client: Apple
 •	Worked on Apple process as an associate analyst to develop the navigation
 •	Worked on different satellite imageries to collect the data and to improve the data in real world by making changes in GIS tools
@@ -73,8 +73,8 @@ Client: Apple
 •	Played a very important role in handling team members in assigning work and gathering the data from the peers.
 
 Apr 2018 - Dec 2018
-	Associate Analyst / Global Logic 
-•	Company Overview: Client: Grab
+Associate Analyst / Global Logic 
+Client: Grab
 •	Worked on Grab process as an associate analyst to develop the navigation
 •	Worked on different satellite imageries to collect the data and to improve the data in real world by making changes in GIS tools
 •	Analyzed spatial data through mapping software and design digital maps with geographic data and various other data sets
