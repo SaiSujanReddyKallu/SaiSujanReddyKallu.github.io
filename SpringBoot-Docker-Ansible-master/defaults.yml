@@ -1,0 +1,9 @@
+---
+# Microservice Directory Structure
+GROUP: "ec2-user"
+OWNER: "ec2-user"
+
+APPLICATION_INSTALL_DIR: "/home/ec2-user/microservices"
+PROJECT_NAME: "sample-application"
+APPLICATION_IMAGE: "ritreshgirdhar/sample-microservice-ansible"
+APPLICATION_IMAGE_VERSION: "latest"

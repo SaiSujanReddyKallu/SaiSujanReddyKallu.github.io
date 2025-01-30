@@ -1,0 +1,14 @@
+version: "2"
+services:
+  ms1:
+    image: {{ APPLICATION_IMAGE }}:{{ APPLICATION_IMAGE_VERSION }}
+    restart: on-failure
+    tty: true
+    ports:
+      - 8080:8080
+    networks:
+      - Network_{{ PROJECT_NAME }}
+
+networks:
+  Network_{{ PROJECT_NAME }}:
+
